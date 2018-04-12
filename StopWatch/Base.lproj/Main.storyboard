@@ -54,6 +54,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="Reset" destination="aQy-XX-w27" id="4yk-C5-5Ve"/>
+                        <outlet property="Start" destination="kk4-9I-D6w" id="T2m-2r-qTt"/>
+                        <outlet property="Stop" destination="5Ua-Gk-XZ2" id="AAm-p5-qh5"/>
                         <outlet property="timeLabel" destination="CSj-SO-YQv" id="WLv-By-8an"/>
                     </connections>
                 </viewController>
